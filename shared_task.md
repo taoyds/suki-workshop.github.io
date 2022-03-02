@@ -6,7 +6,7 @@ collection: pages_2022
 permalink: /shared_task
 ---
 
-# Call for Shared Task
+# Shared Tasks
 
 **We will have cash awards for shared task winners!**
 
